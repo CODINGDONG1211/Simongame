@@ -76,8 +76,9 @@ footer{
   background-color: #111;
 }
 .footerContainer{
-  width: 100%;
-  padding: 70px 30px 20px ;
+  width: 90%;
+  padding: 70px 50px 50px ;
+  margin: 0px auto;
 }
 .socialIcons{
   display: flex;
@@ -125,7 +126,7 @@ footer{
   opacity: 1;
 }
 .footerBottom{
-  background-color: #000;
+  background-color: #000000;
   padding: 20px;
   text-align: center;
 }
